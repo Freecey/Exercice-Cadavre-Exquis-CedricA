@@ -7,3 +7,6 @@
 Blob is a manatee <br>
 he wan to fly to the moon <br>
 and for that he build a rocket <br>
+He didn't understand why the city had disappeared. <br>
+His phone had no network. <br>
+He was alone. <br>
