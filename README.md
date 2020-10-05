@@ -15,4 +15,4 @@ So he moved his rocket to the ground.<br>
 
 And arrice in the centrul of the Earth. </br>
 Not too hot, Bob? </br>
-Bob decide to go back the home </br>
+Bob decides to go back home </br>
