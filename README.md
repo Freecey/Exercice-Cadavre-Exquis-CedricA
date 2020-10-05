@@ -8,6 +8,10 @@ Blob is a manatee <br>
 he wan to fly to the moon <br>
 and for that he build a rocket <br>
 
+He didn't understand why the city had disappeared. <br>
+His phone had no network. <br>
+He was alone. <br>
+
 But a Rocket is to difficult to create <br>
 Blob meet a tree <br>
 The tree speaking et it said : <br>
@@ -20,4 +24,3 @@ So he moved his rocket to the ground.<br>
 And arrice in the centrul of the Earth. </br>
 Not too hot, Bob? </br>
 Bob decides to go back home </br>
-
